@@ -1,0 +1,15 @@
+body {
+  color: #144154;
+}
+
+.tiket {
+  width: 800px;
+  height: 400px;
+  background-color: #5ca2ac;
+}
+
+.box {
+  background-color: #eefcfc;
+  border-radius: 15px;
+  border: 3px dashed #497279;
+}
